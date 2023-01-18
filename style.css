@@ -1,0 +1,56 @@
+#title {
+    text-align: center;
+    padding-top: 1%;
+}
+
+.columnX3 {
+    width: 33.3%;
+    float: left;
+    text-align: center;
+}
+
+.columnX2 {
+    padding-top: 1%;
+    width: 50%;
+    float: left;
+    text-align: center;
+}
+
+#result {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#playerXSettings {
+    padding-top: 1%;
+}
+
+#player0Settings {
+    padding-top: 1%;
+}
+
+table {
+    width: 50%;
+    text-align: center;
+}
+
+tr {
+    width: 100%;
+    text-align: center;
+}
+
+td {
+    width: 33.3%;
+}
+
+.gameButton {
+    font-weight: bold;
+    font-size: 70px;
+    width: 100%;
+    height: 100px;
+    background-color: transparent;
+    border: none;
+}
+
+#gameTable{
+    padding-top: 5%;
+}
